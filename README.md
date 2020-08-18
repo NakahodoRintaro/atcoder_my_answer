@@ -4,4 +4,4 @@
   - エイジングプログラミングコンテスト（全完）
   - M-SOLUTIONS プロコンオープン 2020(全問解くために）※バーチャル受験
   - AtCoder Beginner Contest 174(全問)※バーチャル受験
-  - AtCoder Beginner Contest 151()
+  - AtCoder Beginner Contest 151(2問)
