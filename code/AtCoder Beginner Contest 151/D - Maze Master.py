@@ -30,4 +30,3 @@ def bfs(sx,sy):
         q.append((nx,ny))
   return r
 print(max(bfs(sx,sy) for sx in range(h) for sy in range(w) if g[sx][sy]=='.'))
-提出情報
